@@ -1,0 +1,6 @@
+Steps to launch:
+1.	Clone Repo
+2.	Open terminal and navigate to working directory /fullStackButtonProject
+3.	cd into client subfolder and execute npm start in terminal
+4.	Open second instance of terminal
+5.	cd into server subfolder and execute npm start in terminal
